@@ -1,0 +1,151 @@
+X = ms59
+Y = 1680
+
+46: mineur only in Y
+
+1v
+--
+7.3: Slur only in Y
+8.4.5: Slur only in Y
+12: Ornament only in Y
+14.3: Ornament only in X
+16.3: Ornament only in Y
+27.2: "Exaltet" capitalized only in X
+28.1: Slur only in X
+29.4.5: Slur only in Y
+39: dotted quarter, eighth in X
+42: Ornament only in Y
+43.3: 2 quarter notes, no ornament in X
+46: "seul" only in Y
+49: Slur only in X, and only after the line break
+50.4.75: Maybe D should be E to match figuring.
+51.2.5: # on D# only in Y
+52-53: Sharps on F sharps missing in X
+53: Ornament only in Y
+71: Slur only in Y.
+71: Beam not split in both sources
+72.3: One curve over 3 notes in Y. Separate tie and slur in X.
+115.3: "Toto" only capitalized in Y
+124.3: "Augustini" only capitalized in X
+126.3: "Laudes" only capitalized in X
+128.3: Ornament only in Y
+143: "Toto" not capitalized
+144.2: Ornament only in Y
+145.4: "Suavi" only capitalized in X
+150.3: "Laudes" only capitalized in X
+163.3: "Qui" only capitalized in Y
+169.3: Ornament only in Y
+
+2v
+--
+3.2: "Jucunda" only capitalized in Y
+7-9: No slurs, maybe copy from 1v?
+21,23,24.4: "Augustini" only capitalized in X
+26.3: Ornament only in Y
+29-30: Slur only in Y
+30.2.5: Slur only in Y
+34: Ornament only in Y
+36: Ornament only in Y
+42: Ornament only in Y
+79: "Laudata" only capitalized in X
+80: Dotted half in Y.
+83: "Proptera" only capitalized in Y
+117: "Toto" not capitalized
+118: No # on G#s. Missing? #s on G#s are missing more obviously in other places and in the figuring. Perhaps confusion because of A major tonality?
+126.3: "Laudes" only capitalized in X
+139.3: Ornament only in X
+143: "Toto" not capitalized
+144.2: Ornament only in Y
+150.3: "Laudes" only capitalized in X
+151.3: Ornament only in Y
+154: X has "qui tri-natus immortali immortali gloria" (lyrics of 1re voix copied after line break)
+154.3: # on G only in B. No figuring for a raised third in either source.
+163.3: "Qui" only capitalized in Y
+165: Ornament only in Y
+168: Ornament only in Y
+
+3v
+--
+10.3: "Exaltet" only capitalized in Y
+18.3: Ornament only in Y
+24.4: "Augustini" only capitalized in X
+32-33: Slur only in X, and only after the line break
+76: "a2" [avec 2e Voix] only in Y
+77: "Ille" only capitalized in Y
+79: "Laudata" only capitalized in X
+83: "Proptera" only capitalized in Y
+91: Flat only in Y, but see repetition of phrase at 103. See also BC
+113.3: "Toto" only capitalized in Y
+126.3: "Laudes" only capitalized in X
+141: "Toto" not capitalized
+150.3: "Laudes" only capitalized in X
+153-: X has "coronatus immortali immortali". Y has "coronatus coronatus immortali"
+
+BC
+--
+1-45: Y has bass clef, but is written as if it were in tenor.
+4: figures only in Y
+11.4: Beam split in X
+12.4: # missing on G# in Y
+14: Figures only in Y
+17: #6 is on beat 1 in Y. It is more likely intended on the B to match G# of 1v. (No figures in X.)
+17.3: # presumably missing to match 1v
+17-21: No figures in X
+28.3: # presumably missing to match 2v
+28.3: Extension line only in X
+29-36: No figures in X
+31.3,33.3,34.3,35.2: # presumably missing to match 2v
+41-45: No figures in X
+44: Just a whole note in X
+48.3: Written as #3 in Y
+48.3: Dotted quarter, eighth in Y. 2 quarters notes in X
+53.3, 54.1, 58.1: Extension lines only in X
+56.1: Extension line only in Y, and only over the D
+63.3: X has 6,-5. Y has 8,-5
+66.1: Extension line only in X
+70.3: X has #4. Y has slash 4.
+73.3: X has 4 #3. Y only has #.
+91: No flat in both sources in neither part, but see repetition of phrase at 103.
+92: # only in Y.
+93: Extension line only in Y.
+97: Extension only in Y
+98.3: X has 8,-5. Y has 6,-5. Repetition at 110 has 8,-5 in both sources.
+100.2: X has just half note.
+102: Missing 6 figure to match 2v and previous repetition at 90.
+103.3: No figures in X
+104, 105: Extension lines only in Y
+111.1: X has #. Y has +4. A# (+4) seems unlikely given 2v.
+112.2: Figure # only in X. X has just half note.
+116.2: Both sources have 5/6 instead of 8/6.
+118.2: Figure 3 is before the eighth note in X, on the eighth note in Y.
+119.4: No figures in X.
+120.4: Beam split in X.
+121: Extension line only in Y.
+123: X has dotted half, quarter. Y has half tied to dotted quarter, eighth.
+128.3: # written as #3 in Y.
+129-130: Tie missing in Y.
+130-132: #s written as #3s in Y.
+135-137: Spurious ties between these measures in X. Maybe from copying the ties from 3v?
+137.2: Maybe a figure 6 (circle with short stem) in X? Not on previous iterations of this chord or at repetition at 166.
+139: 8/6 written on beat 3 in X. 8/6 is at beat 2 in Y (not next to 9/7, and before half note on beat 3). See 168 and 171.
+140.3: # written as #3 in Y.
+144.3: Dotted quarter, eighth in X. 2 quarters in Y.
+146: No figure in X.
+148: Extension line only in Y.
+150.3: X has 6,+4. Y has 6,-5,3. Correct spelling would be +4.
+159-161: #s written as #3s in Y.
+162: No figure in X.
+164: Extension line only in Y.
+169.3: # written as #3 in Y.
+168, 171: Extension lines only in Y.
+
+BV
+--
+1-45: Y has bass clef, but is written as if it were in tenor.
+9-13: Missing sharps on G#s (maybe because the key signature for the faulty bass clef has a sharp in this space)
+25: Tie here but not in BC or X.
+67: Whole measure slured. Extension line probably mistaken for slur.
+115: Two half notes tied together.
+120: Eighth notes beamed together
+148: First two notes tied
+168: Whole note
