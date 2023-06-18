@@ -59,7 +59,7 @@ Y = 1680
 150.3: "Laudes" only capitalized in X
 151.3: Ornament only in Y
 154: X has "qui tri-natus immortali immortali gloria" (lyrics of 1re voix copied after line break)
-154.3: # on G only in B. No figuring for a raised third in either source.
+154.3: # on G only in Y. No figuring for a raised third in either source.
 163.3: "Qui" only capitalized in Y
 165: Ornament only in Y
 168: Ornament only in Y
@@ -138,6 +138,7 @@ BC
 164: Extension line only in Y.
 169.3: # written as #3 in Y.
 168, 171: Extension lines only in Y.
+172: Just a single whole note in X.
 
 BV
 --
