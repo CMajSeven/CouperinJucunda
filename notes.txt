@@ -20,7 +20,7 @@ Y = 1680
 49: Slur only in X, and only after the line break
 50.4.75: Maybe D should be E to match figuring.
 51.2.5: # on D# only in Y
-52-53: Sharps on F sharps missing in X
+52-53: Sharps on F sharps and D sharps missing in X
 53: Ornament only in Y
 71: Slur only in Y.
 71: Beam not split in both sources
@@ -41,14 +41,13 @@ Y = 1680
 3.2: "Jucunda" only capitalized in Y
 7-9: No slurs, maybe copy from 1v?
 21,23,24.4: "Augustini" only capitalized in X
-26.3: Ornament only in Y
 29-30: Slur only in Y
 30.2.5: Slur only in Y
 34: Ornament only in Y
 36: Ornament only in Y
 42: Ornament only in Y
 79: "Laudata" only capitalized in X
-80: Dotted half in Y.
+82: Dotted half in Y.
 83: "Proptera" only capitalized in Y
 117: "Toto" not capitalized
 118: No # on G#s. Missing? #s on G#s are missing more obviously in other places and in the figuring. Perhaps confusion because of A major tonality?
@@ -66,11 +65,12 @@ Y = 1680
 
 3v
 --
+Originally written in tenor clef
 10.3: "Exaltet" only capitalized in Y
 18.3: Ornament only in Y
 24.4: "Augustini" only capitalized in X
 32-33: Slur only in X, and only after the line break
-76: "a2" [avec 2e Voix] only in Y
+75: "a2" [avec 2e Voix] only in Y
 77: "Ille" only capitalized in Y
 79: "Laudata" only capitalized in X
 83: "Proptera" only capitalized in Y
